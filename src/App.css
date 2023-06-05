@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+
+.Navbar{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.addMovie{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+    width: 100%
+}
+.inp1, .inp2{
+    padding: 5px;
+    margin: 5px;
+
+}
+.btn{
+    margin-top: 10px;
+    border-radius: 25px solid;
+    background-color: lightseagreen;
+    color: white;
+}
